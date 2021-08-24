@@ -1,0 +1,26 @@
+Variable,Dictionary
+ID,Participant ID
+IQ,IQ (NART)
+Age_Visit2,Age
+Sex,"Biological Sex (0 = M, 1 = F)"
+HRSD25_baseline,HRSD-25 score
+MOODStotal_baseline_lifetime,MOODS-SR lifetime score
+no_meds_1,UD participant took no medications
+AD_1,number of antidepressants
+BZ_1,number of benzodiazepines
+MS_1,number of mood stabilizers
+PY_1,number of antipsychotics
+ST_1,number of stimulants
+mednumber_1,Total Number of Medications
+medload_1,Medication Load
+Group,HC or UD
+BASELINE_Mood_Dx,"HC, UD = MDD/PDD"
+Depression_age_onset,Age of UD onsent
+Depression_years,Years since UD onset
+BASELINE_number_MDE_lifetime,Lifetime number of mood episodes
+NComorbid,Number of comorbid diagnoses
+"***Ends in ""ROI""",A T1w/T2w ratio myelin parcel
+,
+**glmnet_performance.csv**,
+perc_cor,Netsed Elastic net participant accuracy
+bin_cor,perc_cor > .50

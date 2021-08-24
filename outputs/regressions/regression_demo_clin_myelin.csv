@@ -1,0 +1,397 @@
+Sample,X,Y,Type,F,P,P_fdr
+All,Age at the time of scan,L_a24pr_ROI,Variable x Group + Variable + Group,8.603731698,5.12E-05,0.001688856
+All,Age at the time of scan,R_LBelt_ROI,Variable x Group + Variable + Group,6.312302689,0.000673968,0.01112047
+UD Only,Age of UD onsent,R_7AL_ROI,Variable only,11.79262098,0.001546326,0.051028747
+UD Only,Years since UD onset,R_7AL_ROI,Variable only,11.79262098,0.001546326,0.051028747
+All,"Biological Sex (0 = M, 1 = F)",L_6a_ROI,Variable x Group + Variable + Group,4.912123918,0.003489325,0.054163775
+All,"Biological Sex (0 = M, 1 = F)",L_s32_ROI,Variable x Group + Variable + Group,4.792383765,0.004025394,0.054163775
+All,"Biological Sex (0 = M, 1 = F)",R_FFC_ROI,Variable x Group + Variable + Group,4.624043983,0.00492398,0.054163775
+All,"Biological Sex (0 = M, 1 = F)",L_a24pr_ROI,Variable x Group + Variable + Group,4.295760037,0.007307597,0.060287676
+All,Age at the time of scan,L_FOP4_ROI,Variable x Group + Variable + Group,4.433214938,0.006192374,0.061350288
+All,Age at the time of scan,L_LBelt_ROI,Variable x Group + Variable + Group,4.16060215,0.008603224,0.061350288
+All,Age at the time of scan,L_11l_ROI,Variable x Group + Variable + Group,4.053422903,0.009794674,0.061350288
+All,Age at the time of scan,R_FOP2_ROI,Variable x Group + Variable + Group,3.860857748,0.012371978,0.061350288
+All,Age at the time of scan,L_7PC_ROI,Variable x Group + Variable + Group,3.712680252,0.014815117,0.061350288
+All,Age at the time of scan,R_TE2p_ROI,Variable x Group + Variable + Group,3.709488721,0.014872797,0.061350288
+All,Age at the time of scan,L_RI_ROI,Variable x Group + Variable + Group,3.509758251,0.018973399,0.065786875
+All,Age at the time of scan,L_V4t_ROI,Variable x Group + Variable + Group,3.469250689,0.019935417,0.065786875
+All,HRSD-25 score,L_11l_ROI,Variable x Group + Variable + Group,4.974254438,0.003260197,0.066128737
+All,HRSD-25 score,R_V3A_ROI,Variable x Group + Variable + Group,4.172048563,0.00852186,0.066128737
+All,HRSD-25 score,R_7AL_ROI,Variable x Group + Variable + Group,3.905362877,0.0117657,0.066128737
+All,HRSD-25 score,R_7Pm_ROI,Variable x Group + Variable + Group,3.841834536,0.01270799,0.066128737
+All,HRSD-25 score,R_TE2p_ROI,Variable x Group + Variable + Group,3.823216425,0.012998368,0.066128737
+All,HRSD-25 score,L_a24pr_ROI,Variable x Group + Variable + Group,3.789602047,0.013539761,0.066128737
+All,HRSD-25 score,L_MST_ROI,Variable x Group + Variable + Group,3.730242288,0.014552185,0.066128737
+All,HRSD-25 score,R_LBelt_ROI,Variable x Group + Variable + Group,3.650641205,0.016031209,0.066128737
+All,HRSD-25 score,L_s32_ROI,Variable x Group + Variable + Group,3.474828502,0.019859771,0.070077177
+All,HRSD-25 score,R_FOP2_ROI,Variable x Group + Variable + Group,3.419921918,0.021235508,0.070077177
+All,Age at the time of scan,R_FFC_ROI,Variable x Group + Variable + Group,3.299208387,0.024541508,0.073156584
+All,Age at the time of scan,L_MST_ROI,Variable x Group + Variable + Group,3.233325615,0.026602394,0.073156584
+All,Age at the time of scan,L_24dv_ROI,Variable x Group + Variable + Group,3.138338659,0.029884532,0.075860736
+All,HRSD-25 score,L_7PC_ROI,Variable x Group + Variable + Group,3.214091681,0.027306355,0.081919065
+All,HRSD-25 score,L_V4t_ROI,Variable x Group + Variable + Group,3.03694809,0.033916578,0.084757978
+All,HRSD-25 score,R_FOP1_ROI,Variable x Group + Variable + Group,3.03387204,0.034044581,0.084757978
+All,HRSD-25 score,L_47m_ROI,Variable x Group + Variable + Group,2.989229066,0.03595793,0.084757978
+All,"Biological Sex (0 = M, 1 = F)",R_FOP2_ROI,Variable x Group + Variable + Group,3.343480532,0.023247771,0.104858661
+All,"Biological Sex (0 = M, 1 = F)",L_11l_ROI,Variable x Group + Variable + Group,3.343329672,0.023252061,0.104858661
+All,"Biological Sex (0 = M, 1 = F)",L_7PC_ROI,Variable x Group + Variable + Group,3.313351687,0.024120503,0.104858661
+All,"Biological Sex (0 = M, 1 = F)",L_RI_ROI,Variable x Group + Variable + Group,3.249076182,0.026094361,0.104858661
+All,"Biological Sex (0 = M, 1 = F)",L_MST_ROI,Variable x Group + Variable + Group,3.111603709,0.030879794,0.104858661
+All,"Biological Sex (0 = M, 1 = F)",R_TE2p_ROI,Variable x Group + Variable + Group,3.088277873,0.031775352,0.104858661
+All,IQ (NART),L_s32_ROI,Variable x Group + Variable + Group,4.769906595,0.004135004,0.107026931
+All,IQ (NART),L_24dv_ROI,Variable x Group + Variable + Group,4.204265397,0.008160991,0.107026931
+All,IQ (NART),L_a24pr_ROI,Variable x Group + Variable + Group,4.028290722,0.010097475,0.107026931
+All,IQ (NART),L_11l_ROI,Variable x Group + Variable + Group,3.709353711,0.014875242,0.107026931
+All,IQ (NART),L_7PC_ROI,Variable x Group + Variable + Group,3.638497488,0.016216202,0.107026931
+All,"Biological Sex (0 = M, 1 = F)",L_24dv_ROI,Variable x Group + Variable + Group,2.946889893,0.037791079,0.113373236
+All,HRSD-25 score,R_5m_ROI,Variable x Group + Variable + Group,2.691852162,0.051772687,0.113899912
+All,IQ (NART),L_LBelt_ROI,Variable x Group + Variable + Group,3.215066614,0.027203822,0.115572064
+All,IQ (NART),R_TE2p_ROI,Variable x Group + Variable + Group,3.099019912,0.031359728,0.115572064
+All,IQ (NART),L_PeEc_ROI,Variable x Group + Variable + Group,2.954759927,0.037427977,0.115572064
+All,IQ (NART),R_FFC_ROI,Variable x Group + Variable + Group,2.901138471,0.039973069,0.115572064
+All,IQ (NART),R_PH_ROI,Variable x Group + Variable + Group,2.851508479,0.042483236,0.115572064
+All,IQ (NART),L_RI_ROI,Variable x Group + Variable + Group,2.839261034,0.04312663,0.115572064
+All,IQ (NART),R_FOP2_ROI,Variable x Group + Variable + Group,2.773827516,0.046733207,0.115572064
+All,IQ (NART),L_MST_ROI,Variable x Group + Variable + Group,2.767459966,0.047099918,0.115572064
+All,IQ (NART),R_RI_ROI,Variable x Group + Variable + Group,2.734734098,0.049030572,0.115572064
+All,"Biological Sex (0 = M, 1 = F)",L_p32_ROI,Variable x Group + Variable + Group,2.856120269,0.042243467,0.116169535
+All,"Biological Sex (0 = M, 1 = F)",R_7AL_ROI,Variable x Group + Variable + Group,2.784824042,0.046106631,0.11703991
+All,IQ (NART),L_6a_ROI,Variable x Group + Variable + Group,2.64133337,0.054987357,0.120972185
+UD Only,Antidepressants,L_24dv_ROI,Variable only,7.493313839,0.009899002,0.121760254
+UD Only,Antidepressants,R_LBelt_ROI,Variable only,7.322586351,0.010693352,0.121760254
+UD Only,Antidepressants,R_OP1_ROI,Variable only,7.246538563,0.011069114,0.121760254
+All,IQ (NART),R_LBelt_ROI,Variable x Group + Variable + Group,2.540687548,0.062218044,0.128324715
+UD Only,Total medication load,L_p32_ROI,Variable only,9.486688264,0.004152644,0.137037236
+All,IQ (NART),L_p10p_ROI,Variable x Group + Variable + Group,2.410164301,0.073024537,0.141753514
+All,"Biological Sex (0 = M, 1 = F)",L_LBelt_ROI,Variable x Group + Variable + Group,2.557509455,0.060946615,0.143659879
+UD Only,Total medication load,R_LBelt_ROI,Variable only,7.754839329,0.0088031,0.145251156
+All,Age at the time of scan,L_MT_ROI,Variable x Group + Variable + Group,2.517404063,0.064021606,0.149138167
+All,Age at the time of scan,R_POS2_ROI,Variable x Group + Variable + Group,2.42414889,0.071782592,0.149138167
+All,Age at the time of scan,L_s32_ROI,Variable x Group + Variable + Group,2.355241782,0.078112255,0.149138167
+All,Age at the time of scan,L_p10p_ROI,Variable x Group + Variable + Group,2.32616523,0.080946736,0.149138167
+All,Age at the time of scan,R_PH_ROI,Variable x Group + Variable + Group,2.322129965,0.081348091,0.149138167
+All,"Biological Sex (0 = M, 1 = F)",R_RSC_ROI,Variable x Group + Variable + Group,2.450364514,0.069510781,0.152690971
+All,"Biological Sex (0 = M, 1 = F)",R_LBelt_ROI,Variable x Group + Variable + Group,2.398992874,0.074031986,0.152690971
+All,HRSD-25 score,L_24dv_ROI,Variable x Group + Variable + Group,2.396363034,0.074374263,0.153396917
+All,HRSD-25 score,R_FFC_ROI,Variable x Group + Variable + Group,2.16109051,0.099191318,0.166471672
+All,HRSD-25 score,L_RI_ROI,Variable x Group + Variable + Group,2.1610242,0.099199357,0.166471672
+All,HRSD-25 score,L_STSdp_ROI,Variable x Group + Variable + Group,2.142209552,0.101506493,0.166471672
+All,HRSD-25 score,L_p10p_ROI,Variable x Group + Variable + Group,2.126358861,0.103491237,0.166471672
+All,HRSD-25 score,R_RSC_ROI,Variable x Group + Variable + Group,2.103572353,0.106411715,0.166471672
+All,HRSD-25 score,R_PH_ROI,Variable x Group + Variable + Group,2.069129034,0.110981114,0.166471672
+All,"Biological Sex (0 = M, 1 = F)",L_p10p_ROI,Variable x Group + Variable + Group,2.26627926,0.087110119,0.169096114
+All,MOODS-SR lifetime score,L_a24pr_ROI,Variable x Group + Variable + Group,3.80573985,0.013277054,0.173171975
+All,MOODS-SR lifetime score,L_p10p_ROI,Variable x Group + Variable + Group,3.465723589,0.020081518,0.173171975
+All,MOODS-SR lifetime score,L_11l_ROI,Variable x Group + Variable + Group,3.25237915,0.026057542,0.173171975
+All,MOODS-SR lifetime score,L_7PC_ROI,Variable x Group + Variable + Group,3.174173166,0.02867264,0.173171975
+All,MOODS-SR lifetime score,R_FFC_ROI,Variable x Group + Variable + Group,3.104071254,0.031240783,0.173171975
+All,MOODS-SR lifetime score,R_TE2p_ROI,Variable x Group + Variable + Group,3.06159877,0.032908114,0.173171975
+All,MOODS-SR lifetime score,L_STSdp_ROI,Variable x Group + Variable + Group,2.821556037,0.044160559,0.173171975
+All,MOODS-SR lifetime score,L_MST_ROI,Variable x Group + Variable + Group,2.770648588,0.047004581,0.173171975
+All,MOODS-SR lifetime score,L_MT_ROI,Variable x Group + Variable + Group,2.713015692,0.050446417,0.173171975
+All,MOODS-SR lifetime score,R_7AL_ROI,Variable x Group + Variable + Group,2.652433971,0.054336628,0.173171975
+All,MOODS-SR lifetime score,L_FOP4_ROI,Variable x Group + Variable + Group,2.603115998,0.057723992,0.173171975
+All,Age at the time of scan,R_7AL_ROI,Variable x Group + Variable + Group,2.122797113,0.103831682,0.180339237
+All,MOODS-SR lifetime score,R_FOP2_ROI,Variable x Group + Variable + Group,2.397492935,0.074271375,0.181863043
+All,MOODS-SR lifetime score,L_s32_ROI,Variable x Group + Variable + Group,2.372302028,0.076599199,0.181863043
+All,MOODS-SR lifetime score,L_24dv_ROI,Variable x Group + Variable + Group,2.366410305,0.077154018,0.181863043
+All,IQ (NART),R_7AL_ROI,Variable x Group + Variable + Group,2.148608234,0.100605748,0.184443872
+All,MOODS-SR lifetime score,L_RI_ROI,Variable x Group + Variable + Group,2.295447358,0.08415849,0.185148678
+All,HRSD-25 score,L_LBelt_ROI,Variable x Group + Variable + Group,1.91753289,0.133494918,0.189634867
+All,HRSD-25 score,L_6a_ROI,Variable x Group + Variable + Group,1.890733558,0.137916267,0.189634867
+All,HRSD-25 score,L_MT_ROI,Variable x Group + Variable + Group,1.828500305,0.148742678,0.194128217
+All,HRSD-25 score,L_FOP4_ROI,Variable x Group + Variable + Group,1.805503312,0.152949504,0.194128217
+All,MOODS-SR lifetime score,L_LBelt_ROI,Variable x Group + Variable + Group,2.147849087,0.100809442,0.199715717
+All,MOODS-SR lifetime score,R_V3A_ROI,Variable x Group + Variable + Group,2.13117749,0.102883854,0.199715717
+UD Only,Lifetime number of mood episodes,R_7Pm_ROI,Variable only,8.521691657,0.006099366,0.201279089
+All,IQ (NART),L_p32_ROI,Variable x Group + Variable + Group,1.973000391,0.12466714,0.211298852
+All,IQ (NART),L_V4t_ROI,Variable x Group + Variable + Group,1.938028028,0.130094074,0.211298852
+All,IQ (NART),L_d23ab_ROI,Variable x Group + Variable + Group,1.882733761,0.139149848,0.211298852
+All,IQ (NART),L_STSdp_ROI,Variable x Group + Variable + Group,1.860835977,0.142903984,0.211298852
+All,IQ (NART),R_5m_ROI,Variable x Group + Variable + Group,1.80228344,0.153434006,0.211298852
+All,IQ (NART),L_MT_ROI,Variable x Group + Variable + Group,1.80100637,0.153671892,0.211298852
+All,HRSD-25 score,L_p32_ROI,Variable x Group + Variable + Group,1.654467624,0.183593089,0.212761632
+All,HRSD-25 score,L_d23ab_ROI,Variable x Group + Variable + Group,1.648629166,0.184889677,0.212761632
+All,HRSD-25 score,R_POS2_ROI,Variable x Group + Variable + Group,1.639333155,0.186972343,0.212761632
+All,MOODS-SR lifetime score,L_47m_ROI,Variable x Group + Variable + Group,2.018598085,0.118036445,0.216400149
+All,Age at the time of scan,L_6a_ROI,Variable x Group + Variable + Group,1.905744853,0.135308688,0.223259335
+All,Age at the time of scan,L_STSdp_ROI,Variable x Group + Variable + Group,1.835130302,0.147437156,0.231686959
+All,"Biological Sex (0 = M, 1 = F)",L_d23ab_ROI,Variable x Group + Variable + Group,1.892803675,0.137455974,0.232520295
+All,"Biological Sex (0 = M, 1 = F)",L_MT_ROI,Variable x Group + Variable + Group,1.886588905,0.138498973,0.232520295
+All,"Biological Sex (0 = M, 1 = F)",L_STSdp_ROI,Variable x Group + Variable + Group,1.872329438,0.140921391,0.232520295
+All,"Biological Sex (0 = M, 1 = F)",R_POS2_ROI,Variable x Group + Variable + Group,1.801450814,0.153589063,0.241354241
+All,MOODS-SR lifetime score,R_POS2_ROI,Variable x Group + Variable + Group,1.853562043,0.144286555,0.242501931
+All,MOODS-SR lifetime score,R_5m_ROI,Variable x Group + Variable + Group,1.836770653,0.147257526,0.242501931
+All,MOODS-SR lifetime score,L_p32_ROI,Variable x Group + Variable + Group,1.784390413,0.156913503,0.242501931
+All,MOODS-SR lifetime score,R_LBelt_ROI,Variable x Group + Variable + Group,1.747421694,0.164096281,0.242501931
+All,MOODS-SR lifetime score,L_6a_ROI,Variable x Group + Variable + Group,1.722452295,0.169127142,0.242501931
+All,MOODS-SR lifetime score,R_7Pm_ROI,Variable x Group + Variable + Group,1.687762805,0.176365041,0.242501931
+All,Age at the time of scan,R_V3A_ROI,Variable x Group + Variable + Group,1.717711196,0.169986218,0.246955045
+All,Age at the time of scan,R_FOP1_ROI,Variable x Group + Variable + Group,1.707394299,0.172120183,0.246955045
+All,Age at the time of scan,L_d23ab_ROI,Variable x Group + Variable + Group,1.665005485,0.181163003,0.247231544
+All,Age at the time of scan,L_p32_ROI,Variable x Group + Variable + Group,1.637400866,0.187296624,0.247231544
+All,"Biological Sex (0 = M, 1 = F)",L_FOP4_ROI,Variable x Group + Variable + Group,1.713471853,0.170859974,0.256289961
+All,"Biological Sex (0 = M, 1 = F)",L_47m_ROI,Variable x Group + Variable + Group,1.656709631,0.182985653,0.261493048
+All,"Biological Sex (0 = M, 1 = F)",L_V4t_ROI,Variable x Group + Variable + Group,1.616520168,0.192068589,0.261493048
+All,"Biological Sex (0 = M, 1 = F)",R_PH_ROI,Variable x Group + Variable + Group,1.590827473,0.198100794,0.261493048
+All,MOODS-SR lifetime score,L_d23ab_ROI,Variable x Group + Variable + Group,1.552396641,0.207573213,0.273996641
+All,Age at the time of scan,R_RSC_ROI,Variable x Group + Variable + Group,1.415514414,0.244363305,0.279435811
+All,Age at the time of scan,R_OP1_ROI,Variable x Group + Variable + Group,1.399176842,0.249161624,0.279435811
+All,Age at the time of scan,R_7Pm_ROI,Variable x Group + Variable + Group,1.389851861,0.251940035,0.279435811
+All,Age at the time of scan,L_PeEc_ROI,Variable x Group + Variable + Group,1.364903251,0.259517607,0.279435811
+All,Age at the time of scan,R_5m_ROI,Variable x Group + Variable + Group,1.356778851,0.26203107,0.279435811
+All,Age at the time of scan,R_RI_ROI,Variable x Group + Variable + Group,1.355270216,0.262500307,0.279435811
+All,"Biological Sex (0 = M, 1 = F)",R_V3A_ROI,Variable x Group + Variable + Group,1.471343266,0.228617541,0.290168418
+All,IQ (NART),R_V3A_ROI,Variable x Group + Variable + Group,1.495322491,0.222154379,0.293243781
+All,MOODS-SR lifetime score,R_PH_ROI,Variable x Group + Variable + Group,1.450015721,0.234620748,0.297787872
+All,IQ (NART),L_FOP4_ROI,Variable x Group + Variable + Group,1.431459598,0.239764471,0.301003341
+All,IQ (NART),R_RSC_ROI,Variable x Group + Variable + Group,1.396010052,0.250101927,0.301003341
+All,IQ (NART),R_POS2_ROI,Variable x Group + Variable + Group,1.361958445,0.260426022,0.301003341
+All,IQ (NART),R_7Pm_ROI,Variable x Group + Variable + Group,1.348811559,0.264518088,0.301003341
+All,IQ (NART),R_FOP1_ROI,Variable x Group + Variable + Group,1.299472215,0.280418029,0.308459832
+All,HRSD-25 score,L_PeEc_ROI,Variable x Group + Variable + Group,1.274658053,0.288841865,0.317726052
+All,HRSD-25 score,R_RI_ROI,Variable x Group + Variable + Group,1.241543327,0.300312087,0.319687061
+All,"Biological Sex (0 = M, 1 = F)",R_OP1_ROI,Variable x Group + Variable + Group,1.326514806,0.271596097,0.32429722
+All,"Biological Sex (0 = M, 1 = F)",R_7Pm_ROI,Variable x Group + Variable + Group,1.315488897,0.275161278,0.32429722
+All,MOODS-SR lifetime score,R_RSC_ROI,Variable x Group + Variable + Group,1.340810508,0.267137092,0.32650089
+All,IQ (NART),R_OP1_ROI,Variable x Group + Variable + Group,1.220922689,0.307574803,0.327418339
+UD Only,Antidepressants,L_p32_ROI,Variable only,4.564823958,0.040141026,0.331163463
+All,"Biological Sex (0 = M, 1 = F)",R_52_ROI,Variable x Group + Variable + Group,1.267876563,0.291062865,0.331209468
+All,MOODS-SR lifetime score,R_FOP1_ROI,Variable x Group + Variable + Group,1.292465565,0.282843015,0.333350696
+All,"Biological Sex (0 = M, 1 = F)",R_FOP1_ROI,Variable x Group + Variable + Group,1.150124416,0.334103927,0.36751432
+All,Age at the time of scan,R_52_ROI,Variable x Group + Variable + Group,1.073855024,0.36499226,0.376398268
+All,"Biological Sex (0 = M, 1 = F)",R_RI_ROI,Variable x Group + Variable + Group,1.057421748,0.37197373,0.386082374
+All,"Biological Sex (0 = M, 1 = F)",R_5m_ROI,Variable x Group + Variable + Group,1.051814589,0.374382908,0.386082374
+All,Age at the time of scan,L_47m_ROI,Variable x Group + Variable + Group,1.00531549,0.394899667,0.394899667
+UD Only,Antidepressants,L_d23ab_ROI,Variable only,3.471947282,0.071337848,0.399355037
+UD Only,Antidepressants,L_STSdp_ROI,Variable only,3.43947897,0.072610007,0.399355037
+UD Only,Antidepressants,L_RI_ROI,Variable only,3.146975975,0.085296129,0.402110323
+All,IQ (NART),L_47m_ROI,Variable x Group + Variable + Group,0.992430052,0.400757186,0.413280848
+All,MOODS-SR lifetime score,R_OP1_ROI,Variable x Group + Variable + Group,1.057562123,0.371990106,0.423299086
+All,MOODS-SR lifetime score,L_V4t_ROI,Variable x Group + Variable + Group,1.019988074,0.388393973,0.42723337
+UD Only,Antidepressants,L_MST_ROI,Variable only,2.70496519,0.109530477,0.451813216
+All,MOODS-SR lifetime score,R_52_ROI,Variable x Group + Variable + Group,0.921899678,0.434235912,0.462251132
+All,MOODS-SR lifetime score,L_PeEc_ROI,Variable x Group + Variable + Group,0.879606094,0.455389454,0.469620374
+UD Only,Lifetime number of mood episodes,L_MST_ROI,Variable only,4.651834098,0.037970889,0.473976286
+UD Only,Lifetime number of mood episodes,L_d23ab_ROI,Variable only,4.019041405,0.052772943,0.473976286
+UD Only,Lifetime number of mood episodes,R_FOP1_ROI,Variable only,3.859244028,0.057451671,0.473976286
+All,"Biological Sex (0 = M, 1 = F)",L_PeEc_ROI,Variable x Group + Variable + Group,0.803290251,0.495683191,0.495683191
+All,IQ (NART),R_52_ROI,Variable x Group + Variable + Group,0.777451962,0.509984773,0.509984773
+All,HRSD-25 score,R_OP1_ROI,Variable x Group + Variable + Group,0.800829196,0.497079537,0.512613272
+UD Only,Antidepressants,R_RI_ROI,Variable only,2.273193334,0.141143141,0.517524852
+All,HRSD-25 score,R_52_ROI,Variable x Group + Variable + Group,0.752585941,0.524097171,0.524097171
+UD Only,"HC, UD = MDD/PDD",R_FOP1_ROI,Variable only,6.241978132,0.01732191,0.571623016
+UD Only,Antidepressants,L_FOP4_ROI,Variable only,1.819934015,0.186505668,0.580192501
+UD Only,Antidepressants,R_7Pm_ROI,Variable only,1.651433336,0.207710634,0.580192501
+UD Only,Antidepressants,R_POS2_ROI,Variable only,1.627333757,0.210979091,0.580192501
+UD Only,Antidepressants,L_7PC_ROI,Variable only,1.446509195,0.237647492,0.594711194
+UD Only,Antidepressants,L_s32_ROI,Variable only,1.357632772,0.252301719,0.594711194
+UD Only,Total medication load,R_OP1_ROI,Variable only,3.983280381,0.05426184,0.596880238
+UD Only,Number of comorbid diagnoses,L_a24pr_ROI,Variable only,4.859592402,0.034159694,0.604127198
+UD Only,Number of comorbid diagnoses,L_V4t_ROI,Variable only,4.723083445,0.03661377,0.604127198
+UD Only,Total medication load,L_MST_ROI,Variable only,3.344565078,0.076477446,0.625272148
+UD Only,Total medication load,L_24dv_ROI,Variable only,2.959541394,0.094738204,0.625272148
+All,MOODS-SR lifetime score,R_RI_ROI,Variable x Group + Variable + Group,0.519903787,0.669813517,0.669813517
+UD Only,Total medication load,L_7PC_ROI,Variable only,2.239122273,0.144061082,0.696204041
+UD Only,Total medication load,L_47m_ROI,Variable only,2.197977988,0.147679645,0.696204041
+UD Only,Number of comorbid diagnoses,R_FOP1_ROI,Variable only,2.653949573,0.11226207,0.732528772
+UD Only,Number of comorbid diagnoses,L_MST_ROI,Variable only,2.63988769,0.113183747,0.732528772
+UD Only,Number of comorbid diagnoses,R_OP1_ROI,Variable only,2.400659654,0.130280145,0.732528772
+UD Only,Number of comorbid diagnoses,L_p10p_ROI,Variable only,2.201373307,0.146838155,0.732528772
+UD Only,Number of comorbid diagnoses,R_52_ROI,Variable only,1.727710998,0.19725249,0.732528772
+UD Only,Number of comorbid diagnoses,L_6a_ROI,Variable only,1.662994413,0.205656383,0.732528772
+UD Only,Number of comorbid diagnoses,L_24dv_ROI,Variable only,1.485570934,0.231056436,0.732528772
+UD Only,Number of comorbid diagnoses,R_FFC_ROI,Variable only,1.418324346,0.241693768,0.732528772
+UD Only,Number of comorbid diagnoses,L_47m_ROI,Variable only,1.403164098,0.244176257,0.732528772
+UD Only,Total medication load,L_STSdp_ROI,Variable only,1.713925051,0.199519923,0.74432262
+UD Only,Total medication load,L_d23ab_ROI,Variable only,1.559155335,0.22057494,0.74432262
+UD Only,Total medication load,R_5m_ROI,Variable only,1.52522096,0.225552309,0.74432262
+UD Only,Antidepressants,R_TE2p_ROI,Variable only,0.883485664,0.354078457,0.778972605
+UD Only,Antidepressants,R_5m_ROI,Variable only,0.797731271,0.37824,0.780120001
+UD Only,Total medication load,L_a24pr_ROI,Variable only,1.280847556,0.265898828,0.78257884
+UD Only,Total medication load,L_6a_ROI,Variable only,1.146300418,0.292093448,0.78257884
+UD Only,Total medication load,L_V4t_ROI,Variable only,0.799937599,0.377589167,0.78257884
+UD Only,Total medication load,R_7AL_ROI,Variable only,0.797620392,0.378272751,0.78257884
+UD Only,Total medication load,R_FFC_ROI,Variable only,0.797039922,0.378444272,0.78257884
+UD Only,Total medication load,R_FOP1_ROI,Variable only,0.72811652,0.399645816,0.78257884
+UD Only,Total medication load,L_RI_ROI,Variable only,0.717253191,0.403146675,0.78257884
+UD Only,Number of comorbid diagnoses,L_7PC_ROI,Variable only,1.157746892,0.289294634,0.795560243
+UD Only,Total medication load,R_POS2_ROI,Variable only,0.596524987,0.445403513,0.802133878
+UD Only,Total medication load,R_7Pm_ROI,Variable only,0.546037513,0.465165064,0.802133878
+UD Only,Total medication load,L_PeEc_ROI,Variable only,0.442940146,0.510332199,0.802133878
+UD Only,Total medication load,R_TE2p_ROI,Variable only,0.442694265,0.510448832,0.802133878
+UD Only,Number of comorbid diagnoses,L_s32_ROI,Variable only,0.878557067,0.355020438,0.816505806
+UD Only,Number of comorbid diagnoses,R_PH_ROI,Variable only,0.76533681,0.387627513,0.816505806
+UD Only,Number of comorbid diagnoses,R_TE2p_ROI,Variable only,0.683499912,0.413985052,0.816505806
+UD Only,Number of comorbid diagnoses,L_d23ab_ROI,Variable only,0.613317335,0.438808841,0.816505806
+UD Only,Number of comorbid diagnoses,R_7AL_ROI,Variable only,0.552369471,0.462311075,0.816505806
+UD Only,Number of comorbid diagnoses,L_PeEc_ROI,Variable only,0.487557591,0.48963242,0.816505806
+UD Only,Number of comorbid diagnoses,R_5m_ROI,Variable only,0.477052187,0.494316037,0.816505806
+UD Only,Number of comorbid diagnoses,L_11l_ROI,Variable only,0.475860835,0.494852004,0.816505806
+UD Only,"HC, UD = MDD/PDD",R_LBelt_ROI,Variable only,2.693110959,0.109740277,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_POS2_ROI,Variable only,2.337097856,0.135313056,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_FOP4_ROI,Variable only,2.235199746,0.143861841,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_V4t_ROI,Variable only,2.037375896,0.162335885,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_11l_ROI,Variable only,1.812752731,0.186833726,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_OP1_ROI,Variable only,1.803857012,0.187891894,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_PeEc_ROI,Variable only,1.559252863,0.220062663,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_7Pm_ROI,Variable only,1.372787361,0.249248009,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_RI_ROI,Variable only,1.023239015,0.318694234,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_24dv_ROI,Variable only,1.017086337,0.320132839,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_PH_ROI,Variable only,0.984348074,0.327937638,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_52_ROI,Variable only,0.717447435,0.402737287,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_5m_ROI,Variable only,0.56746472,0.456305798,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_MT_ROI,Variable only,0.513719007,0.47828925,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_STSdp_ROI,Variable only,0.474935729,0.495268878,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_V3A_ROI,Variable only,0.456980778,0.503481114,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_MST_ROI,Variable only,0.428337402,0.517083881,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_s32_ROI,Variable only,0.40517682,0.5285691,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_FOP2_ROI,Variable only,0.306300685,0.583477597,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_7AL_ROI,Variable only,0.282242034,0.598591141,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_47m_ROI,Variable only,0.265203139,0.609805122,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_6a_ROI,Variable only,0.225337026,0.637951788,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_RSC_ROI,Variable only,0.219159705,0.642583259,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_a24pr_ROI,Variable only,0.212295456,0.647824443,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_RI_ROI,Variable only,0.203897359,0.654378974,0.82388843
+UD Only,"HC, UD = MDD/PDD",R_FFC_ROI,Variable only,0.152160545,0.698843044,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_7PC_ROI,Variable only,0.148496639,0.70230831,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_p10p_ROI,Variable only,0.126692218,0.724023166,0.82388843
+UD Only,"HC, UD = MDD/PDD",L_LBelt_ROI,Variable only,0.09700191,0.757305211,0.833035733
+UD Only,Age of UD onsent,R_OP1_ROI,Variable only,2.582783449,0.11701697,0.834129761
+UD Only,Years since UD onset,R_OP1_ROI,Variable only,2.582783449,0.11701697,0.834129761
+UD Only,Years since UD onset,R_52_ROI,Variable only,1.887286955,0.178243679,0.834129761
+UD Only,Age of UD onsent,R_52_ROI,Variable only,1.887286955,0.178243679,0.834129761
+UD Only,Age of UD onsent,L_s32_ROI,Variable only,1.358167721,0.251736432,0.834129761
+UD Only,Years since UD onset,L_s32_ROI,Variable only,1.358167721,0.251736432,0.834129761
+UD Only,Years since UD onset,L_11l_ROI,Variable only,1.292985947,0.263223602,0.834129761
+UD Only,Age of UD onsent,L_11l_ROI,Variable only,1.292985947,0.263223602,0.834129761
+UD Only,Age of UD onsent,R_LBelt_ROI,Variable only,1.249605372,0.271242375,0.834129761
+UD Only,Years since UD onset,R_LBelt_ROI,Variable only,1.249605372,0.271242375,0.834129761
+UD Only,Age of UD onsent,L_24dv_ROI,Variable only,1.052222389,0.312033412,0.834129761
+UD Only,Years since UD onset,L_24dv_ROI,Variable only,1.052222389,0.312033412,0.834129761
+UD Only,Age of UD onsent,L_LBelt_ROI,Variable only,0.903693046,0.348312136,0.834129761
+UD Only,Years since UD onset,L_LBelt_ROI,Variable only,0.903693046,0.348312136,0.834129761
+UD Only,Years since UD onset,R_7Pm_ROI,Variable only,0.901799957,0.348811162,0.834129761
+UD Only,Age of UD onsent,R_7Pm_ROI,Variable only,0.901799957,0.348811162,0.834129761
+UD Only,Age of UD onsent,R_POS2_ROI,Variable only,0.825449073,0.36980564,0.834129761
+UD Only,Years since UD onset,R_POS2_ROI,Variable only,0.825449073,0.36980564,0.834129761
+UD Only,Age of UD onsent,R_5m_ROI,Variable only,0.812490906,0.373545998,0.834129761
+UD Only,Years since UD onset,R_5m_ROI,Variable only,0.812490906,0.373545998,0.834129761
+UD Only,Age of UD onsent,L_V4t_ROI,Variable only,0.81009915,0.374242304,0.834129761
+UD Only,Years since UD onset,L_V4t_ROI,Variable only,0.81009915,0.374242304,0.834129761
+UD Only,Years since UD onset,R_FFC_ROI,Variable only,0.659687701,0.422160317,0.834129761
+UD Only,Age of UD onsent,R_FFC_ROI,Variable only,0.659687701,0.422160317,0.834129761
+UD Only,Years since UD onset,L_p32_ROI,Variable only,0.566284242,0.456770876,0.834129761
+UD Only,Age of UD onsent,L_p32_ROI,Variable only,0.566284242,0.456770876,0.834129761
+UD Only,Years since UD onset,R_FOP1_ROI,Variable only,0.55281013,0.462133961,0.834129761
+UD Only,Age of UD onsent,R_FOP1_ROI,Variable only,0.55281013,0.462133961,0.834129761
+UD Only,Age of UD onsent,R_TE2p_ROI,Variable only,0.451749323,0.505918369,0.834129761
+UD Only,Years since UD onset,R_TE2p_ROI,Variable only,0.451749323,0.505918369,0.834129761
+UD Only,Years since UD onset,L_d23ab_ROI,Variable only,0.399119546,0.531649367,0.834129761
+UD Only,Age of UD onsent,L_d23ab_ROI,Variable only,0.399119546,0.531649367,0.834129761
+UD Only,Age of UD onsent,R_V3A_ROI,Variable only,0.37701504,0.543175811,0.834129761
+UD Only,Years since UD onset,R_V3A_ROI,Variable only,0.37701504,0.543175811,0.834129761
+UD Only,Age of UD onsent,L_p10p_ROI,Variable only,0.36700084,0.548552455,0.834129761
+UD Only,Years since UD onset,L_p10p_ROI,Variable only,0.36700084,0.548552455,0.834129761
+UD Only,Years since UD onset,L_6a_ROI,Variable only,0.313123436,0.579333531,0.834129761
+UD Only,Age of UD onsent,L_6a_ROI,Variable only,0.313123436,0.579333531,0.834129761
+UD Only,Years since UD onset,L_47m_ROI,Variable only,0.286360762,0.595946036,0.834129761
+UD Only,Age of UD onsent,L_47m_ROI,Variable only,0.286360762,0.595946036,0.834129761
+UD Only,Age of UD onsent,R_RI_ROI,Variable only,0.278658313,0.600912958,0.834129761
+UD Only,Years since UD onset,R_RI_ROI,Variable only,0.278658313,0.600912958,0.834129761
+UD Only,Age of UD onsent,R_PH_ROI,Variable only,0.221508676,0.640812787,0.834129761
+UD Only,Years since UD onset,R_PH_ROI,Variable only,0.221508676,0.640812787,0.834129761
+UD Only,Age of UD onsent,L_RI_ROI,Variable only,0.205563504,0.653065754,0.834129761
+UD Only,Years since UD onset,L_RI_ROI,Variable only,0.205563504,0.653065754,0.834129761
+UD Only,Age of UD onsent,L_MT_ROI,Variable only,0.169216097,0.683317548,0.834129761
+UD Only,Years since UD onset,L_MT_ROI,Variable only,0.169216097,0.683317548,0.834129761
+UD Only,Years since UD onset,L_FOP4_ROI,Variable only,0.14851358,0.702292175,0.834129761
+UD Only,Age of UD onsent,L_FOP4_ROI,Variable only,0.14851358,0.702292175,0.834129761
+UD Only,Age of UD onsent,L_7PC_ROI,Variable only,0.11699829,0.73435864,0.834129761
+UD Only,Years since UD onset,L_7PC_ROI,Variable only,0.11699829,0.73435864,0.834129761
+UD Only,Age of UD onsent,L_PeEc_ROI,Variable only,0.116839682,0.734531669,0.834129761
+UD Only,Years since UD onset,L_PeEc_ROI,Variable only,0.116839682,0.734531669,0.834129761
+UD Only,Age of UD onsent,L_STSdp_ROI,Variable only,0.105477397,0.747286302,0.834129761
+UD Only,Years since UD onset,L_STSdp_ROI,Variable only,0.105477397,0.747286302,0.834129761
+UD Only,Age of UD onsent,L_MST_ROI,Variable only,0.096181859,0.758299782,0.834129761
+UD Only,Years since UD onset,L_MST_ROI,Variable only,0.096181859,0.758299782,0.834129761
+UD Only,Lifetime number of mood episodes,R_7AL_ROI,Variable only,1.615221244,0.212141829,0.842342486
+UD Only,Lifetime number of mood episodes,L_a24pr_ROI,Variable only,1.546736422,0.221883698,0.842342486
+UD Only,Lifetime number of mood episodes,L_RI_ROI,Variable only,1.304866944,0.26108067,0.842342486
+UD Only,Lifetime number of mood episodes,R_LBelt_ROI,Variable only,1.259695137,0.269349561,0.842342486
+UD Only,Lifetime number of mood episodes,L_STSdp_ROI,Variable only,1.182906277,0.284198392,0.842342486
+UD Only,Lifetime number of mood episodes,L_MT_ROI,Variable only,1.179849023,0.284811361,0.842342486
+UD Only,Lifetime number of mood episodes,R_5m_ROI,Variable only,1.099441022,0.301575727,0.842342486
+UD Only,Lifetime number of mood episodes,R_FFC_ROI,Variable only,1.07781479,0.306306358,0.842342486
+UD Only,Total medication load,L_FOP4_ROI,Variable only,0.322123839,0.574175373,0.843597648
+UD Only,Total medication load,R_RSC_ROI,Variable only,0.299365256,0.587961997,0.843597648
+UD Only,Antidepressants,R_V3A_ROI,Variable only,0.568758647,0.456100696,0.85739123
+UD Only,Antidepressants,L_a24pr_ROI,Variable only,0.539890137,0.467667944,0.85739123
+UD Only,Number of comorbid diagnoses,L_STSdp_ROI,Variable only,0.363329309,0.550548982,0.8651484
+UD Only,Total medication load,R_52_ROI,Variable only,0.190705899,0.665173924,0.865306912
+UD Only,Total medication load,L_MT_ROI,Variable only,0.167150679,0.685297828,0.865306912
+UD Only,Total medication load,L_LBelt_ROI,Variable only,0.1482603,0.702674097,0.865306912
+UD Only,Total medication load,L_11l_ROI,Variable only,0.142753378,0.707978382,0.865306912
+UD Only,Number of comorbid diagnoses,R_RI_ROI,Variable only,0.292624391,0.591970178,0.875088486
+UD Only,Number of comorbid diagnoses,R_LBelt_ROI,Variable only,0.229028099,0.635221552,0.875088486
+UD Only,Number of comorbid diagnoses,L_MT_ROI,Variable only,0.132285631,0.71826176,0.875088486
+UD Only,Number of comorbid diagnoses,L_FOP4_ROI,Variable only,0.125268449,0.725512565,0.875088486
+UD Only,Number of comorbid diagnoses,R_POS2_ROI,Variable only,0.12059123,0.730473693,0.875088486
+UD Only,Number of comorbid diagnoses,R_RSC_ROI,Variable only,0.112341747,0.739494361,0.875088486
+UD Only,Number of comorbid diagnoses,R_V3A_ROI,Variable only,0.109666003,0.742499322,0.875088486
+UD Only,"HC, UD = MDD/PDD",L_p32_ROI,Variable only,0.044859099,0.833491886,0.876613156
+UD Only,"HC, UD = MDD/PDD",R_TE2p_ROI,Variable only,0.036275012,0.850049121,0.876613156
+UD Only,Lifetime number of mood episodes,R_POS2_ROI,Variable only,0.908588864,0.347026185,0.88084934
+UD Only,Lifetime number of mood episodes,R_52_ROI,Variable only,0.437642137,0.512594706,0.88084934
+UD Only,Lifetime number of mood episodes,R_V3A_ROI,Variable only,0.420660302,0.520840795,0.88084934
+UD Only,Lifetime number of mood episodes,L_FOP4_ROI,Variable only,0.417947049,0.522180285,0.88084934
+UD Only,Lifetime number of mood episodes,R_OP1_ROI,Variable only,0.400314307,0.53103921,0.88084934
+UD Only,Lifetime number of mood episodes,L_47m_ROI,Variable only,0.374230748,0.544660718,0.88084934
+UD Only,Lifetime number of mood episodes,L_24dv_ROI,Variable only,0.327883009,0.570568711,0.88084934
+UD Only,Lifetime number of mood episodes,R_PH_ROI,Variable only,0.305848714,0.583754253,0.88084934
+UD Only,Lifetime number of mood episodes,L_11l_ROI,Variable only,0.300640833,0.586961551,0.88084934
+UD Only,Lifetime number of mood episodes,R_FOP2_ROI,Variable only,0.30020292,0.587232893,0.88084934
+UD Only,Years since UD onset,R_RSC_ROI,Variable only,0.045928387,0.831549746,0.885198117
+UD Only,Age of UD onsent,R_RSC_ROI,Variable only,0.045928387,0.831549746,0.885198117
+UD Only,"HC, UD = MDD/PDD",L_d23ab_ROI,Variable only,0.01963772,0.889356965,0.889356965
+UD Only,Total medication load,R_FOP2_ROI,Variable only,0.089103831,0.767191151,0.90119978
+UD Only,Total medication load,L_s32_ROI,Variable only,0.051223906,0.822343167,0.90119978
+UD Only,Total medication load,R_V3A_ROI,Variable only,0.051190443,0.822400193,0.90119978
+UD Only,Total medication load,R_RI_ROI,Variable only,0.0380285,0.846581611,0.90119978
+UD Only,Years since UD onset,R_FOP2_ROI,Variable only,0.023467906,0.879126385,0.906599084
+UD Only,Age of UD onsent,R_FOP2_ROI,Variable only,0.023467906,0.879126385,0.906599084
+UD Only,Antidepressants,L_47m_ROI,Variable only,0.377731572,0.5430345,0.911600675
+UD Only,Antidepressants,R_FFC_ROI,Variable only,0.337356872,0.565304803,0.911600675
+UD Only,Antidepressants,L_6a_ROI,Variable only,0.248959331,0.621118807,0.911600675
+UD Only,Antidepressants,L_V4t_ROI,Variable only,0.190750812,0.665137006,0.911600675
+UD Only,Antidepressants,L_LBelt_ROI,Variable only,0.141076013,0.709617289,0.911600675
+UD Only,Antidepressants,R_7AL_ROI,Variable only,0.132605062,0.718069121,0.911600675
+UD Only,Antidepressants,R_FOP1_ROI,Variable only,0.085586721,0.771696147,0.911600675
+UD Only,Antidepressants,L_MT_ROI,Variable only,0.05213477,0.820798387,0.911600675
+UD Only,Antidepressants,R_52_ROI,Variable only,0.048619783,0.826841116,0.911600675
+UD Only,Antidepressants,R_RSC_ROI,Variable only,0.038469612,0.845706006,0.911600675
+UD Only,Antidepressants,L_p10p_ROI,Variable only,0.027986507,0.868161509,0.911600675
+UD Only,Antidepressants,R_FOP2_ROI,Variable only,0.025135579,0.874995958,0.911600675
+UD Only,Antidepressants,R_PH_ROI,Variable only,0.022570833,0.881493011,0.911600675
+UD Only,Antidepressants,L_11l_ROI,Variable only,0.021627786,0.883976412,0.911600675
+UD Only,Number of comorbid diagnoses,R_FOP2_ROI,Variable only,0.051625493,0.821580546,0.925248834
+UD Only,Number of comorbid diagnoses,L_RI_ROI,Variable only,0.04077847,0.841135304,0.925248834
+UD Only,Lifetime number of mood episodes,L_p32_ROI,Variable only,0.118047777,0.733217024,0.928491993
+UD Only,Lifetime number of mood episodes,R_RI_ROI,Variable only,0.112846156,0.738932374,0.928491993
+UD Only,Lifetime number of mood episodes,L_p10p_ROI,Variable only,0.102831683,0.750364475,0.928491993
+UD Only,Lifetime number of mood episodes,R_RSC_ROI,Variable only,0.092720768,0.762549592,0.928491993
+UD Only,Lifetime number of mood episodes,L_V4t_ROI,Variable only,0.076919362,0.783148027,0.928491993
+UD Only,Lifetime number of mood episodes,L_PeEc_ROI,Variable only,0.073562936,0.787811388,0.928491993
+UD Only,Years since UD onset,L_a24pr_ROI,Variable only,0.006474406,0.936326816,0.936326816
+UD Only,Age of UD onsent,L_a24pr_ROI,Variable only,0.006474406,0.936326816,0.936326816
+UD Only,Antidepressants,L_PeEc_ROI,Variable only,0.005680069,0.94037837,0.94037837
+UD Only,Number of comorbid diagnoses,L_p32_ROI,Variable only,0.021741648,0.883622602,0.940630512
+UD Only,Total medication load,R_PH_ROI,Variable only,0.010658518,0.918397275,0.94709719
+UD Only,Lifetime number of mood episodes,L_7PC_ROI,Variable only,0.024149132,0.877398842,0.967413269
+UD Only,Lifetime number of mood episodes,L_6a_ROI,Variable only,0.012963457,0.910001634,0.967413269
+UD Only,Lifetime number of mood episodes,L_s32_ROI,Variable only,0.003440059,0.95356288,0.967413269
+UD Only,Lifetime number of mood episodes,R_TE2p_ROI,Variable only,0.00266942,0.959088245,0.967413269
+UD Only,Lifetime number of mood episodes,L_LBelt_ROI,Variable only,0.001693,0.967413269,0.967413269
+UD Only,Number of comorbid diagnoses,R_7Pm_ROI,Variable only,0.005665588,0.9404284,0.969816788
+UD Only,Number of comorbid diagnoses,L_LBelt_ROI,Variable only,0.000557763,0.981292246,0.981292246
+UD Only,Total medication load,L_p10p_ROI,Variable only,0.000507042,0.982170694,0.982170694

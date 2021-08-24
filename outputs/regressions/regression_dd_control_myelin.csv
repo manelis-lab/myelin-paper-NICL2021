@@ -1,0 +1,34 @@
+X,Y,Beta,SE,T,P,P-fdr,Variable Selection Frequency,Region,Description
+Group (UD v HC),L_11l_ROI,-0.321,0.105,-3.056,0.003,0.032,100.00,11l,BA 11 (orbital and polar frontal)
+Group (UD v HC),L_7PC_ROI,0.330,0.107,3.081,0.003,0.032,100.00,7PC,BA 7 (superior parietal cortex)
+Group (UD v HC),L_MST_ROI,0.314,0.108,2.892,0.005,0.032,100.00,MST,Medial superior temporal area
+Group (UD v HC),L_p10p_ROI,-0.278,0.109,-2.536,0.013,0.038,100.00,p10p,BA 10 (frontopolar margin of orbital prefrontal cortex)
+Group (UD v HC),R_FFC_ROI,-0.271,0.107,-2.534,0.013,0.038,100.00,FFC,Fusiform face complex
+Group (UD v HC),R_FOP2_ROI,-0.274,0.107,-2.574,0.012,0.038,100.00,FOP2,Frontal Opercular area 2 (posterior opercular cortex)
+Group (UD v HC),L_STSdp_ROI,-0.223,0.110,-2.036,0.045,0.071,99.95,STSdp,Auditory association cortex
+Group (UD v HC),R_TE2p_ROI,0.314,0.107,2.928,0.004,0.032,99.89,TE2p,Lateral temporal complex
+Group (UD v HC),L_LBelt_ROI,-0.295,0.109,-2.713,0.008,0.038,99.35,LBelt,Lateral belt complex (auditory)
+Group (UD v HC),L_a24pr_ROI,-0.301,0.100,-3.003,0.004,0.032,99.29,a24pr,Ventral anterior cingulate cortex.
+Group (UD v HC),R_7AL_ROI,-0.274,0.109,-2.512,0.014,0.038,99.18,7AL,BA 7 (superior parietal cortex)
+Group (UD v HC),L_d23ab_ROI,-0.238,0.111,-2.157,0.034,0.060,95.53,d23ab,Ventral posterior cingulate cortex
+Group (UD v HC),L_6a_ROI,-0.242,0.106,-2.291,0.025,0.054,95.25,6a,BA 6 (premotor subdivisions)
+Group (UD v HC),L_24dv_ROI,-0.275,0.108,-2.556,0.012,0.038,59.36,24dv,Ventral anterior cingulate cortex.
+Group (UD v HC),R_V3A_ROI,0.201,0.112,1.795,0.076,0.097,47.52,V3A,Visual area V3A
+Group (UD v HC),L_V4t_ROI,-0.185,0.112,-1.650,0.103,0.117,39.44,V4t,Visual area V4t
+Group (UD v HC),R_LBelt_ROI,-0.221,0.104,-2.122,0.037,0.061,33.99,LBelt,Lateral belt complex (auditory)
+Group (UD v HC),L_p32_ROI,0.240,0.110,2.179,0.032,0.060,33.66,p32,BA 32 (pregenual anterior cingulate)
+Group (UD v HC),R_PH_ROI,0.239,0.111,2.152,0.034,0.060,22.97,PH,Posterior temporal visual region
+Group (UD v HC),R_POS2_ROI,0.210,0.109,1.921,0.058,0.082,19.97,POS2,Parieto-occipital sulcus area 2 
+Group (UD v HC),R_FOP1_ROI,-0.204,0.112,-1.816,0.073,0.096,19.31,FOP1,Frontal Opercular area 1 (posterior opercular cortex)
+Group (UD v HC),R_RI_ROI,0.172,0.110,1.559,0.123,0.135,18.22,RI,RetroInsular cortex
+Group (UD v HC),L_47m_ROI,-0.194,0.112,-1.735,0.086,0.102,15.77,47m,BA 47 (orbital part of inferior frontal gyrus)
+Group (UD v HC),L_s32_ROI,-0.262,0.107,-2.442,0.017,0.040,12.22,s32,BA 32 (subgenual anterior cingulate)
+Group (UD v HC),L_MT_ROI,0.238,0.109,2.176,0.033,0.060,11.95,MT,Middle temporal area
+Group (UD v HC),L_RI_ROI,-0.272,0.108,-2.520,0.014,0.038,11.78,RI,RetroInsular cortex
+Group (UD v HC),R_OP1_ROI,-0.137,0.111,-1.237,0.220,0.220,8.89,OP1,Parietal operculum ( secondary somatosensory cortex)
+Group (UD v HC),L_PeEc_ROI,-0.159,0.111,-1.429,0.157,0.162,6.98,PeEc,Perirhinal ectorhinal cortex
+Group (UD v HC),L_FOP4_ROI,-0.264,0.106,-2.489,0.015,0.038,6.66,FOP4,Frontal Opercular area 4 (posterior opercular cortex)
+Group (UD v HC),R_RSC_ROI,-0.220,0.110,-2.009,0.048,0.072,6.22,RSC,RetroSplenial complex
+Group (UD v HC),R_52_ROI,0.166,0.111,1.493,0.139,0.148,6.06,52, BA 52 (parainsular)
+Group (UD v HC),R_7Pm_ROI,0.214,0.112,1.913,0.059,0.082,5.18,7Pm,BA 7 (superior medial parietal cortex)
+Group (UD v HC),R_5m_ROI,-0.199,0.112,-1.777,0.079,0.097,3.98,5m,BA5 (paracentral lobule)

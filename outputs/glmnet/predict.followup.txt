@@ -1,0 +1,4 @@
+[1] "Predict class (control/dd) of participant who converted from control to dd"
+[1] "0 = control; 1 = depressive disorder"
+[1] 1 1
+Levels: 0 1
