@@ -1,6 +1,5 @@
 Code and data for:
-Baranger, D.A.A., Halchenko, Y.O., Satz, S., Ragozzino, R., Iyengar, S., Swartz, H.A., Manelis, A. Neuroimage: Clinical (2021).
-Aberrant levels of cortical myelin distinguish individuals with depressive disorders from healthy controls.
+Baranger DAA, Halchenko YO, Satz S, Ragozzino R, Iyengar S, Swartz HA, Manelis A. Aberrant levels of cortical myelin distinguish individuals with depressive disorders from healthy controls. NeuroImage: Clinical (2021) 32:102790. doi:10.1016/J.NICL.2021.102790
 
 # FOLDER STRUCTURE
 
